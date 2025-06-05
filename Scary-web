@@ -27,8 +27,8 @@
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
-      max-width: 100%;
-      max-height: 100%;
+      max-width: 90%;
+      max-height: 90%;
     }
   </style>
 </head>
@@ -38,7 +38,7 @@
   <button onclick="triggerJumpScare()">Click Me</button>
 
   <div id="scare">
-    <img src="https://i.imgur.com/6QKX3rC.png" alt="Scary Face">
+    <img src="https://cdn.pixabay.com/photo/2017/10/10/21/46/horror-2830989_1280.jpg" alt="Scary Face">
     <audio id="scream" src="https://www.soundjay.com/human/sounds/scream-01.mp3"></audio>
   </div>
 
